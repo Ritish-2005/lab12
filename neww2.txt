@@ -3,3 +3,8 @@ second commit
 third commit
 fourth commit
 fifth commit
+<<<<<<< HEAD
+=======
+reverting..!!
+i m good boy ......Good morning
+>>>>>>> 859e66bb0e7283223ee59b1f5b35efcb5ccd6fa1
